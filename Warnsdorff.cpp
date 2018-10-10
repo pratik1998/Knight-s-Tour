@@ -1,3 +1,15 @@
+/*
+This algorithm follows below indicated rules to find knight's tour.
+
+Warnsdorff’s Rule:
+1. We start from any position from the board.
+2. We always goto adjacent unvisited square with
+minimum degree square(minimum unvisited adjacent
+square)
+
+*/
+
+
 /* porting from http://code.activestate.com/recipes/578382-knights-tour-using-warnsdorff-algorithm/ */
 #include <iostream>
 #include <cstdlib>
