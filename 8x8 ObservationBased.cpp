@@ -1,3 +1,14 @@
+//============================================================================
+// Name        : 8x8 ObservationBased.cpp
+// Author      : Tapan Modi & Pratik Kayastha
+// Version     :
+// Copyright   : Your copyright notice
+// Description : This Algorithm simply follows observation for 8x8 chessboard. We divide chessboard into 4 types of subsystem.
+//               We first traverse one subsystem then we move to another.
+//               YouTube video explaining Algorithm: https://www.youtube.com/watch?v=9fSFC00ZKPg
+//============================================================================
+
+
 #include<bits/stdc++.h>
 using namespace std;
 

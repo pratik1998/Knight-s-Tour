@@ -1,3 +1,12 @@
+//============================================================================
+// Name        : Parberry.cpp
+// Author      : Tapan Modi & Pratik Kayastha
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Below Algorithm is partial implementation of Par-berry Algorithm. 
+//               This Algorithm works for even chessboard size. This algorithm performs much Better than warnsdroff Algorithm.
+//============================================================================
+
 #include <bits/stdc++.h>
 #include <unistd.h>
 using namespace std;
